@@ -1,5 +1,5 @@
 # Sentinel LULC Classification using Random Forest
-![Random Forest](https://github.com/Ratan1995/Sentinel_LULC_Classification/blob/main/RF.jpg)
+<img align="right" width="100" src="995/Sentinel_LULC_Classification/blob/main/RF.jpg">
 
 ## Description
 This repository contains a supervised land use and land cover classification project using Google Earth Engine, Sentinel-1, and Sentinel-2 satellite data. The classification focuses on three distinct seasons (hot, wet, and dry) based on World Bank seasonal adaptation. A Random Forest classifier is used to classify the land cover into five categories (water, built-up, vegetation, road, and barren).
